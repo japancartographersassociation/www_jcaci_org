@@ -1,9 +1,9 @@
 www_jcaci_org
 ===
 
-日本地図学会・新ウェブサイト
+日本地図学会・新ウェブサイト（旧ドメイン）
 
-正式ドメイン http://jcaci.org/
+旧ドメイン http://jcaci.org/ → http://jcacj.org に移設中
 
 テスト用URL http://japancartographersassociation.github.io/www_jcaci_org/
 
